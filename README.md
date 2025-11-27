@@ -1,9 +1,9 @@
-**PayPal Clone**
-**Production-grade Microservices**
+⭐**PayPal Clone**
+⭐**Production-grade Microservices**
 
 • A 95% realistic PayPal-like payment application implemented using Spring Boot microservices, Kafka, Redis, PostgreSQL, Docker Compose and modern backend tooling.
 
-*Why this project (resume / internship value) ?*
+🚀*Why this project ?*
 
 • Real-world backend architecture: microservices, API Gateway, message-driven design (Kafka), caching (Redis), persistence (Postgres).
 
@@ -11,39 +11,41 @@
 
 • Good talking points in interviews: design tradeoffs, failure handling, idempotency of transactions, and scaling choices.
 
-**Features:**
+🌿**Features:**
 
-Authentication & Authorization (JWT + Role Based Access Control)
+•Authentication & Authorization (JWT + Role Based Access Control)
 
-User service (wallets, KYC placeholders)
+•User service (wallets, KYC placeholders)
 
-Transaction service (initiate, complete, rollback)
+•Transaction service (initiate, complete, rollback)
 
-Notifications service (Kafka-driven)
+•Notifications service (Kafka-driven)
 
-Fraud / analytics stubs (design included; extendable)
+•Fraud / analytics stubs (design included; extendable)
 
-API Gateway routing and rate limiting (pattern)
+•API Gateway routing and rate limiting (pattern)
 
-Docker Compose for local multi-container orchestration
+•Docker Compose for local multi-container orchestration
 
-Test coverage for core transaction flows
+•Test coverage for core transaction flows
 
-Example CI/CD YAML and infra notes.
+•Example CI/CD YAML and infra notes.
 
-***Tech stack***
+🧩***Tech stack***
 
-Language: Java 17 / Spring Boot (each microservice)
+•Language: Java 17 / Spring Boot (each microservice)
 
-Messaging: Apache Kafka
+•Messaging: Apache Kafka
 
-API Gateway: Spring Cloud Gateway
+•API Gateway: Spring Cloud Gateway
 
-Databases: PostgreSQL (per service)
+•Databases: PostgreSQL (per service)
 
-Cache: Redis
+•Cache: Redis
 
-Containerization: Docker & Docker Compose
+•Containerization: Docker & Docker Compose
 
-Security: JWT 
+•Security: JWT 
+
+
 
